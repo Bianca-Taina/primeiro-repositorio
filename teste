@@ -1,0 +1,7 @@
+vendas_curso01 = int(input("digite quantos acesos teve o curso 01: "))
+vendas_curso02 = int(input("digite quantos acesos teve o curso 02:"))
+
+if vendas_curso01 > vendas_curso02:
+    print("curso01 vendeu mais do que curso02.")
+elif vendas_curso02 > vendas_curso01:
+    print   
